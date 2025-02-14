@@ -1,6 +1,6 @@
 #!/bin/bash
 # To Do: Create a powershell version of this with:
-# wget --user-agent="<USER AGENT GOES HERE>" --header="<API KEY GOES HERE>" -O downloaded_page.html "https://midmihc.com/osint/osint.html"
+# wget --user-agent="<USER AGENT GOES HERE>" --header="<API KEY GOES HERE>" -O downloaded_page.html "https://midmihc.com/2025_ctf/osint.html"
 # UPDATE: refined this a bit to make sure its extracting the images I want. 
 
 read -p "Enter the URL to extract images from: " url
